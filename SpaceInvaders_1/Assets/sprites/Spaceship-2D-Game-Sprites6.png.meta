@@ -1,0 +1,1252 @@
+fileFormatVersion: 2
+guid: 429a10f94cc460f46ae93b20de7331fd
+timeCreated: 1550910438
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spaceship-2D-Game-Sprites6_0
+    21300002: Spaceship-2D-Game-Sprites6_1
+    21300004: Spaceship-2D-Game-Sprites6_2
+    21300006: Spaceship-2D-Game-Sprites6_3
+    21300008: Spaceship-2D-Game-Sprites6_4
+    21300010: Spaceship-2D-Game-Sprites6_5
+    21300012: Spaceship-2D-Game-Sprites6_6
+    21300014: Spaceship-2D-Game-Sprites6_7
+    21300016: Spaceship-2D-Game-Sprites6_8
+    21300018: Spaceship-2D-Game-Sprites6_9
+    21300020: Spaceship-2D-Game-Sprites6_10
+    21300022: Spaceship-2D-Game-Sprites6_11
+    21300024: Spaceship-2D-Game-Sprites6_12
+    21300026: Spaceship-2D-Game-Sprites6_13
+    21300028: Spaceship-2D-Game-Sprites6_14
+    21300030: Spaceship-2D-Game-Sprites6_15
+    21300032: Spaceship-2D-Game-Sprites6_16
+    21300034: Spaceship-2D-Game-Sprites6_17
+    21300036: Spaceship-2D-Game-Sprites6_18
+    21300038: Spaceship-2D-Game-Sprites6_19
+    21300040: Spaceship-2D-Game-Sprites6_20
+    21300042: Spaceship-2D-Game-Sprites6_21
+    21300044: Spaceship-2D-Game-Sprites6_22
+    21300046: Spaceship-2D-Game-Sprites6_23
+    21300048: Spaceship-2D-Game-Sprites6_24
+    21300050: Spaceship-2D-Game-Sprites6_25
+    21300052: Spaceship-2D-Game-Sprites6_26
+    21300054: Spaceship-2D-Game-Sprites6_27
+    21300056: Spaceship-2D-Game-Sprites6_28
+    21300058: Spaceship-2D-Game-Sprites6_29
+    21300060: Spaceship-2D-Game-Sprites6_30
+    21300062: Spaceship-2D-Game-Sprites6_31
+    21300064: Spaceship-2D-Game-Sprites6_32
+    21300066: Spaceship-2D-Game-Sprites6_33
+    21300068: Spaceship-2D-Game-Sprites6_34
+    21300070: Spaceship-2D-Game-Sprites6_35
+    21300072: Spaceship-2D-Game-Sprites6_36
+    21300074: Spaceship-2D-Game-Sprites6_37
+    21300076: Spaceship-2D-Game-Sprites6_38
+    21300078: Spaceship-2D-Game-Sprites6_39
+    21300080: Spaceship-2D-Game-Sprites6_40
+    21300082: Spaceship-2D-Game-Sprites6_41
+    21300084: Spaceship-2D-Game-Sprites6_42
+    21300086: Spaceship-2D-Game-Sprites6_43
+    21300088: Spaceship-2D-Game-Sprites6_44
+    21300090: Spaceship-2D-Game-Sprites6_45
+    21300092: Spaceship-2D-Game-Sprites6_46
+    21300094: Spaceship-2D-Game-Sprites6_47
+    21300096: Spaceship-2D-Game-Sprites6_48
+    21300098: Spaceship-2D-Game-Sprites6_49
+    21300100: Spaceship-2D-Game-Sprites6_50
+    21300102: Spaceship-2D-Game-Sprites6_51
+    21300104: Spaceship-2D-Game-Sprites6_52
+    21300106: Spaceship-2D-Game-Sprites6_53
+    21300108: Spaceship-2D-Game-Sprites6_54
+    21300110: Spaceship-2D-Game-Sprites6_55
+    21300112: Spaceship-2D-Game-Sprites6_56
+    21300114: Spaceship-2D-Game-Sprites6_57
+    21300116: Spaceship-2D-Game-Sprites6_58
+    21300118: Spaceship-2D-Game-Sprites6_59
+    21300120: Spaceship-2D-Game-Sprites6_60
+    21300122: Spaceship-2D-Game-Sprites6_61
+    21300124: Spaceship-2D-Game-Sprites6_62
+    21300126: Spaceship-2D-Game-Sprites6_63
+    21300128: Spaceship-2D-Game-Sprites6_64
+    21300130: Spaceship-2D-Game-Sprites6_65
+    21300132: Spaceship-2D-Game-Sprites6_66
+    21300134: Spaceship-2D-Game-Sprites6_67
+    21300136: Spaceship-2D-Game-Sprites6_68
+    21300138: Spaceship-2D-Game-Sprites6_69
+    21300140: Spaceship-2D-Game-Sprites6_70
+    21300142: Spaceship-2D-Game-Sprites6_71
+    21300144: Spaceship-2D-Game-Sprites6_72
+    21300146: Spaceship-2D-Game-Sprites6_73
+    21300148: Spaceship-2D-Game-Sprites6_74
+    21300150: Spaceship-2D-Game-Sprites6_75
+    21300152: Spaceship-2D-Game-Sprites6_76
+    21300154: Spaceship-2D-Game-Sprites6_77
+    21300156: Spaceship-2D-Game-Sprites6_78
+    21300158: Spaceship-2D-Game-Sprites6_79
+    21300160: Spaceship-2D-Game-Sprites6_80
+    21300162: Spaceship-2D-Game-Sprites6_81
+    21300164: Spaceship-2D-Game-Sprites6_82
+    21300166: Spaceship-2D-Game-Sprites6_83
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 720
+        width: 37
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 720
+        width: 69
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 741
+        width: 44
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 678
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 692
+        width: 18
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_5
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 772
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_6
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 772
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_7
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 760
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_8
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 780
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_9
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 734
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_10
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 760
+        width: 124
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_11
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 754
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_12
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 764
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_13
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 766
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_14
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 758
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_15
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 750
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_16
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 748
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_17
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 748
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_18
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 748
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_19
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 732
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_20
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 732
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 476
+        width: 51
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_22
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 476
+        width: 58
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 587
+        width: 229
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_24
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 576
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_25
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 544
+        width: 34
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_26
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 546
+        width: 123
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_27
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 576
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 476
+        width: 114
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_29
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 490
+        width: 250
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_30
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 386
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 358
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_32
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 358
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_33
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 358
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_34
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 408
+        width: 106
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_35
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 416
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_36
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 420
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_37
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 230
+        width: 26
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_38
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 230
+        width: 23
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_39
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 230
+        width: 25
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_40
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 243
+        width: 108
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_41
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 234
+        width: 35
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_42
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 268
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_43
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 296
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_44
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 298
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_45
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 252
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_46
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 266
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_47
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 260
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_48
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 278
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_49
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 248
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_50
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 258
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_51
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 260
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_52
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 138
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_53
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 138
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_54
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 138
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_55
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 74
+        width: 107
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_56
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 56
+        width: 34
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_57
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 124
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_58
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 126
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_59
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 126
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_60
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 84
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_61
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 48
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_62
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 48
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_63
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_64
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 122
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_65
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 117
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_66
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 108
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_67
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 110
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_68
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 100
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_69
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 111
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_70
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 107
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_71
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 106
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_72
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 98
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_73
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 100
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_74
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 100
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_75
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 102
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_76
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 100
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_77
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 98
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_78
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 80
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_79
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 92
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_80
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 84
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_81
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 92
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_82
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 80
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spaceship-2D-Game-Sprites6_83
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 80
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
